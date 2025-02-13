@@ -1,8 +1,11 @@
- 
+
 # Fey-OS  
 
+
 Fey-OS is a minimal operating system that boots from GRUB:  
- 
+ ![License](https://img.shields.io/badge/license-BSD-green.svg)
+ ![x86](https://img.shields.io/badge/architecture-x86-blue.svg)
+ ![32-bit](https://img.shields.io/badge/architecture-32--bit-blue.svg)
 
 ## 🔥 Focus: Building a Minimal x86 (32-bit) Operating System  
 The goal of Fey-OS is to create a **lightweight, minimalistic operating system** with core functionality, including:  
